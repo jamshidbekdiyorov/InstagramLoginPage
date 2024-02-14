@@ -1,0 +1,174 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Protest+Riot&display=swap'); */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Protest Riot", sans-serif;
+
+}
+
+.img{
+    width: 475px;
+    height: 735px;
+    position: relative;
+    top: 90px;
+    left: 200px;
+    /* transform: translate(0%,0%); */
+}
+
+.img img{
+    position: absolute;
+}
+
+
+.top-image{
+    width: 291px;
+    height: 633px;
+    left: 150px; 
+    top: 25px;
+}
+
+.content{
+    width: 480px;
+    height: 488px;
+    position: absolute;
+    right: 320px;
+    top: 90px;
+    border: 1px solid #E4E6EB;
+    border-radius: 7px
+}
+
+
+.head-instagram {
+    font-size: 55px;
+    text-align: center;
+    padding-top: 35px;
+    font-style:normal;
+}
+
+
+.img-instagram{
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.submit-button {
+    display: flex;
+    justify-content: center;
+}
+
+.submit-button button{
+    background-color: #0866FF;
+    color: #fff;
+    padding: 7px;
+    margin-top: 25px;
+    font-size: 15px;
+    border: 1px solid #0866FF;
+    border-radius: 7px;
+}
+
+.delete-text{
+    text-decoration: none;
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    margin: 15px;
+    color: #0866FF;
+}
+.content1{
+    width: 480px;
+    height: 90px;
+    position: absolute;
+    right: 320px;
+    top: 590px;
+    border: 1px solid #E4E6EB;
+    border-radius: 7px
+
+}
+content1{
+    font-size: 55px;
+    text-align: center;
+    padding-top: 35px;
+    font-style:normal;  
+}
+.ab1{
+    width: 107px;
+    height: 17px;
+    text-align: center;
+    position: absolute;
+    top:30px;
+    left: 190px;    
+    color: #817C7C;
+    display: inline-block;
+}
+.register-text{
+    position: absolute;
+    bottom: 10px;
+    left: 60px;
+}
+
+.register-text a{
+    
+    color: #0064D1;
+    text-decoration: none;
+}
+.ab3{
+    height: 17px;
+    text-align: center;
+    position: absolute;
+    display: flex;
+    float: inline-start;
+    top: 115px;
+    left:155px;
+}
+.ab4{
+    width: 110px;
+    height: 40px;
+    position: absolute;
+    right: 555px;
+    margin: 30px;   
+   
+}
+.ab5{
+    width: 134px;
+    height: 40px;
+    position: absolute;
+    position: end;
+    left: 130px;
+    bottom: 0;
+}
+.ab6{
+    height: 17px;
+    position: relative;
+    top:150px;
+    left: 300px;
+    display: flex;
+    color: #443D3D;
+}
+.ab7{
+    height: 17px;
+    position: relative;
+    top:170px;
+    left: 475px;
+    display: flex;
+    color: #443D3D;
+
+}
+.ab8{
+    height: 17px;
+    position: relative;
+    top:200px;
+    left: 475px;
+    display: flex;
+    color: #443D3D;  
+}
+.ab9{
+    height: 17px;
+    position: relative;
+    top:185px;
+    left:620px ;
+    display: flex;
+    color: #443D3D;   
+}
